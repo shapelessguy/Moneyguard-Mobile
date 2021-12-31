@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "561909901320",
+    "firebase_url": "https://mobilemoneyguard.firebaseio.com",
+    "project_id": "mobilemoneyguard",
+    "storage_bucket": "mobilemoneyguard.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561909901320:android:673287d972b1bc930249bd",
+        "android_client_info": {
+          "package_name": "com.example.mobilemoneyguard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561909901320-pib237u87dajhga96dhvk2mq11kbnf29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mobilemoneyguard",
+            "certificate_hash": "c914006243da3a5c310080a1ebd50f33a81138fa"
+          }
+        },
+        {
+          "client_id": "561909901320-brk621bk866qkqou9ct77erpml4sh65h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWlsbXw3BcWB0u8u9TozK8iOJgKLIOKOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561909901320-brk621bk866qkqou9ct77erpml4sh65h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
